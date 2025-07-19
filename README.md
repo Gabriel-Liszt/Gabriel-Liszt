@@ -1,7 +1,7 @@
 # 👋 Gabriel Liszt Ferreira de Oliveira
 
 Estudante de Ciência da Computação na UFPB, apaixonado por resolver problemas através da tecnologia.  
-Atualmente sou líder de trainees na Liga Acadêmica CortechX e estudo tópicos voltados a Estruturas de Dados, Web e Inteligência Artificial.
+Atualmente sou líder de trainees na Liga Acadêmica CortechX e estudo tópicos voltados a Estruturas de Dados, Coleta de Dados, Web e Inteligência Artificial.
 
 ## 🚀 Tecnologias que estudo e utilizo:
 
